@@ -1,5 +1,0 @@
-﻿  main.cpp
-F:\Project\C\高斯消去法\main.cpp(19,12): warning C4101: “k”: 未引用的局部变量
-F:\Project\C\高斯消去法\main.cpp(19,9): warning C4101: “j”: 未引用的局部变量
-F:\Project\C\高斯消去法\main.cpp(19,6): warning C4101: “i”: 未引用的局部变量
-  高斯消去法.vcxproj -> F:\Project\C\高斯消去法\x64\Debug\高斯消去法.exe
