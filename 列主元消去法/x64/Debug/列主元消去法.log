@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Project\C\列主元消去法\main.cpp(20,12): warning C4101: “k”: 未引用的局部变量
+F:\Project\C\列主元消去法\main.cpp(20,9): warning C4101: “j”: 未引用的局部变量
+F:\Project\C\列主元消去法\main.cpp(20,6): warning C4101: “i”: 未引用的局部变量
+  列主元消去法.vcxproj -> F:\Project\C\列主元消去法\x64\Debug\列主元消去法.exe
